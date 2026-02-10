@@ -4,3 +4,4 @@ openai
 folium
 streamlit-folium
 openrouteservice
+geopy
